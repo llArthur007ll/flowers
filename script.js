@@ -110,4 +110,4 @@ class Flower {
 }
 
 // Llamar a la función para crear la circunferencia de flores y texto con saltos de línea
-createFlowerCircle(5000, 5000, 2000, "Feliz\n21 de marzo\nTe quiero");
+createFlowerCircle(5000, 5000, 2000, "Feliz\n21 de marzo\nSusy\nTe quiero Mucho");
